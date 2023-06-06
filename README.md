@@ -33,7 +33,16 @@
 </p>
 
 <p align="center">
- <img  src="https://activity-graph.herokuapp.com/graph?username=PavelYosifov&bg_color=000000&color=ffffff&line=2bff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+ <img  src="https://github.com/ashutosh00710/github-readme-activity-graph" />
 </p>
 
+## :white_check_mark: Top Repos
+<p>
+<a href="https://github.com/PavelYosifov/Manual-QA-first-steps">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelYosifov&repo=Manual-QA-first-steps&theme=gotham "  />
+</a>
+  <a href="https://github.com/PavelYosifov/C-basics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelYosifov&repo=C-basics&theme=gotham"  />
+</a>
+<p/>
   
