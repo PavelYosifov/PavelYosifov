@@ -32,14 +32,11 @@
  <img  src="https://github-readme-stats.vercel.app/api?username=PavelYosifov&show_icons=true&theme=blue-green" />
 </p>
 
-<p align="center">
- <img  src="https://github.com/ashutosh00710/github-readme-activity-graph" />
-</p>
 
 ## :white_check_mark: Top Repos
 <p>
 <a href="https://github.com/PavelYosifov/Manual-QA-first-steps">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelYosifov&repo=Manual-QA-first-steps&theme=gotham "  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelYosifov&repo=QA&theme=gotham "  />
 </a>
   <a href="https://github.com/PavelYosifov/C-basics">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelYosifov&repo=C-basics&theme=gotham"  />
