@@ -2,7 +2,7 @@
 
 <p align="left" >
 <a href="https://linkedin.com/in/pavel-yosifov-647445262" target="_blank"><img align="left" width="24px" src=""/></a>
-  <a href = "mailto: pyosifov99@gmail.com"><img align="left" width="24px" src="![image](https://github.com/PavelYosifov/PavelYosifov/assets/45537666/c0b063db-2c45-4034-9e5c-966353d16356)"/></a>
+  <a href = "mailto: pyosifov99@gmail.com"><img align="left" width="24px" src="https://github.com/VishalRashmika/Social-Media-Icons/blob/main/Color/LinkedIN.png?raw=true"/></a>
  </br>
 </br>
 </p>
