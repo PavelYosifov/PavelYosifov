@@ -1,4 +1,4 @@
-## Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I am Pavel Yosifov. Welcome to my git profile! 
+## Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I am Pavel Yosifov. Welcome to my profile! 
 
 <p align="left" >
 <a href="https://linkedin.com/in/pavel-yosifov-647445262" target="_blank"><img align="left" width="60px" src="https://github.com/VishalRashmika/Social-Media-Icons/blob/main/Color/Gmail.png?raw=true"/></a>
