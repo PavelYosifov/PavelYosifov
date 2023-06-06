@@ -26,6 +26,8 @@
     <img height="50" height="40" width="50" src='https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png'>&nbsp;
     <img height="50" height="40" width="50" src='https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png'>&nbsp;
     <img height="50" height="40" width="50" src='https://user-images.githubusercontent.com/25181517/184117353-4b437677-c4bb-4f4c-b448-af4920576732.png'>&nbsp;
+    <img height="50" height="40" width="50" src='https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png'>&nbsp;
+    <img height="50" height="40" width="50" src='https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png'>&nbsp;
 </p>
 
 ## :chart: My GitHub Stats
