@@ -45,10 +45,10 @@
 
 ## :white_check_mark: Top Repos
 <p>
-<a href="https://github.com/SimeonPetkov1999/MobileBG">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=simeonPetkov1999&repo=MobileBG&theme=gotham"  />
+<a href="https://github.com/PavelYosifov/First_steps_in_git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelYosifov&repo=First_steps_in_git&theme=gotham"  />
 </a>
-  <a href="https://github.com/SimeonPetkov1999/SoftUni">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=simeonPetkov1999&repo=Softuni&theme=gotham"  />
+  <a href="https://github.com/PavelYosifov/C-basics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelYosifov&repo=C-basics&theme=gotham"  />
 </a>
 <p/>
