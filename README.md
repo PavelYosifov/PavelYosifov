@@ -1,8 +1,8 @@
 ## Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I am Pavel Yosifov. Welcome to my git profile! 
 
 <p align="left">
-<a href="https://linkedin.com/in/pavel-yosifov-647445262" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto: pyosifov99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://linkedin.com/in/pavel-yosifov-647445262" target="_blank"><img src="https://icons8.com/icon/13930/linkedin" target="_blank"></a>
+  <a href = "mailto: pyosifov99@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" target="_blank"></a>
  </br>
 </br>
 </p>
