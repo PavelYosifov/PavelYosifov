@@ -19,7 +19,7 @@
     <img height="50" height="40" width="50" src='https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png'>&nbsp;
     <img height="50" height="40" width="50" src='https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png'>&nbsp;
     <img height="50" height="40" width="50" src='https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png'>&nbsp;
-    <img height="50" height="40" width="50" src='https://github.com/PavelYosifov/PavelYosifov/assets/45537666/5d0e494e-6802-4b23-ae6b-ae8f5642da36'>&nbsp;
+    <img height="60" height="50" width="60" src='https://github.com/PavelYosifov/PavelYosifov/assets/45537666/5d0e494e-6802-4b23-ae6b-ae8f5642da36'>&nbsp;
     <img height="50" height="40" width="50" src='https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png'>&nbsp;
     <img height="50" height="40" width="50" src='https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png'>&nbsp;
     <img height="50" height="40" width="50" src='https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png'>&nbsp;
