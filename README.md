@@ -41,5 +41,5 @@
   <a href="https://github.com/PavelYosifov/C-basics">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelYosifov&repo=C-basics&theme=gotham"  />
 </a>
-<p/>
+</p>
   
