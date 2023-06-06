@@ -15,7 +15,7 @@
 </p>
 
 ## :computer: Skills
-<p align='center'>
+<p align='center' height="40" alt="Erica-Ruby" height="30" width="40">
     <img src='https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png'>&nbsp;
     <img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black&color=F7DF1E'>&nbsp;
     <img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=black&color=F7DF1E'>&nbsp;
@@ -39,6 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelYosifov&repo=Manual-QA-first-steps&theme=gotham"  />
 </a>
   <a href="https://github.com/PavelYosifov/C-basics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelYosifov&repo=C-basics&theme=gotham "  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelYosifov&repo=C-basics&theme=gotham"  />
 </a>
 <p/>
