@@ -17,7 +17,7 @@
 ## :computer: Skills & Tools
 <p align='center'>
     <img height="50" height="40" width="50" src='https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png'>&nbsp;
-    <img height="50" height="40" width="50" src='https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png'>&nbsp;
+    <img height="50" height="40" width="50" src='ttps://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png'>&nbsp;
     <img height="50" height="40" width="50" src='https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png'>&nbsp;
     <img height="50" height="40" width="50" src='https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png'>&nbsp;
     <img height="50" height="40" width="50" src='https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png'>&nbsp;
