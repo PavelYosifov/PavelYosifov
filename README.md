@@ -20,8 +20,8 @@
     <img height="50" height="40" width="50" src='https://github.com/PavelYosifov/PavelYosifov/blob/main/images/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png'>&nbsp;
     <img height="50" height="40" width="50" src='https://github.com/PavelYosifov/PavelYosifov/blob/main/images/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png'>&nbsp;
     <img height="55" height="45" width="55" src='https://github.com/PavelYosifov/PavelYosifov/blob/main/images/243764984-5d0e494e-6802-4b23-ae6b-ae8f5642da36.png'>&nbsp;
-    <img height="50" height="60" width="60" src='https://github.com/PavelYosifov/PavelYosifov/blob/main/images/386476_linux_tox_icon.png'>&nbsp;
-    <img height="50" height="60" width="60" src='https://github.com/PavelYosifov/PavelYosifov/blob/main/images/4375122_logo_ubuntu_icon.png'>&nbsp;
+    <img height="50" height="40" width="50" src='https://github.com/PavelYosifov/PavelYosifov/blob/main/images/386476_linux_tox_icon.png'>&nbsp;
+    <img height="50" height="40" width="50" src='https://github.com/PavelYosifov/PavelYosifov/blob/main/images/4375122_logo_ubuntu_icon.png'>&nbsp;
     <img height="50" height="40" width="50" src='https://github.com/PavelYosifov/PavelYosifov/blob/main/images/4375050_logo_python_icon.png'>&nbsp;
     <img height="50" height="40" width="50" src='https://github.com/PavelYosifov/PavelYosifov/blob/main/images/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png'>&nbsp;
     <img height="50" height="40" width="50" src='https://github.com/PavelYosifov/PavelYosifov/blob/main/images/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png'>&nbsp;
