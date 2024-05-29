@@ -44,7 +44,7 @@
 <a href="https://github.com/PavelYosifov/Manual-QA-first-steps">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelYosifov&repo=Manual-QA-first-steps&theme=gotham"  />
 </a>
-  <a href="https://github.com/PavelYosifov/C-basics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelYosifov&repo=C-basics&theme=gotham"  />
+  <a href="https://github.com/PavelYosifov/PythonFS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PavelYosifov&repo=PythonFS&theme=gotham"  />
 </a>
 <p/>
