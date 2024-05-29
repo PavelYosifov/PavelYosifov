@@ -7,7 +7,7 @@
 </br>
 </p>
 
-
+![snake gif]([https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif](https://github.com/PavelYosifov/PavelYosifov/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg))
 ## :computer: Skills & Tools
 <p align='center'>
     <img height="50" height="40" width="50" src='https://github.com/PavelYosifov/PavelYosifov/blob/main/images/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png'>&nbsp;
